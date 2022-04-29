@@ -1,3 +1,3 @@
 # King
 
-Free Tool
+Paid tool
